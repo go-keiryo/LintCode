@@ -13,8 +13,39 @@
 
 **Future Milestone**: 我准备将一些有意思的题目，做成视频的形式给大家参考
 
-希望大家学习顺利, 对未来充满希望(程序员也是找到好老板的!)
+### 在这里! 安利一下自己的副业
+
+介绍一下自己! 
+
+* [反驳: 赚的多就该996.icu? 盘一盘程序员的三六九等! (2019)](https://youtu.be/gPELHMkHEpE)
+* [996.icu 今日敏感话题: 强制加班的背后 (2019)](https://youtu.be/QR7vi3G5M2Q)
+* [如何拿到亚马逊的工作! How succeed in Amazon Interview! (2019)](https://youtu.be/NIuOjjKaK9M)
+* [与PM项目经理战斗 - 如何取得胜利? (2019)](https://youtu.be/KyFMNRKN2Rs)
+* [十分钟学会Python? (2019)](https://youtu.be/DRQYOdO9BAU)
+* [刚到美国到底怎样开口说英文? (2019)](https://youtu.be/pd3WR5K-bLs)
+
+最近我开始在做自己的[Youtube Channel](https://www.youtube.com/channel/UCQNPegv0VqempHNYPWKkVNw/featured?view_as=subscriber), 虽然还没有定下任何方向, 但是目前我会做几部分的内容: 
+* 工作经验的分享/目前学习经历: 当然会跟Software Engineer比较相关
+* 在美国的生活/学生时代的经历, vlog等
+* 个人的兴趣爱好: 唱歌!!!
+
+希望在这里参考刷题经验时, 可以去关注我的Channel! 有任何对在美国工作的疑问, 疑惑, 都可以给我留言/私信/邮件.
+
+**老油条和Tech Lead(带头大哥)区别在哪? 你身边的都是怎么样的程序员?**
+
+[反驳: 赚的多就该996.icu? 盘一盘程序员的三六九等! (2019)](https://youtu.be/gPELHMkHEpE)
+
+![反驳: 赚的多就该996.icu? 盘一盘程序员的三六九等! (2019)](https://upload-images.jianshu.io/upload_images/1088843-706f8952130c9e30.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+
+
+大家在YouTube或者B站都可以搜到我: "张土汪"
+
+* [Youtube: 张土汪](https://www.youtube.com/channel/UCQNPegv0VqempHNYPWKkVNw/featured?view_as=subscriber)
+* [Bilibili: 张土汪](https://space.bilibili.com/249496206)
+
+希望大家学习顺利, 对未来充满希望!
 有问题可以给我写邮件(wangdeve@gmail.com), 或者在GitHub上发issue给我.
+
 
 | Squence | Problem       | Level  | Language  | Tags | Video Tutorial|
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|
